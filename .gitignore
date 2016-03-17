@@ -1,0 +1,16 @@
+# Logfiles and tempfiles.
+/log
+*.log
+/tmp
+
+# Mac and Windows files
+.DS_Store
+Thumbs.db
+
+# Jetbrains files
+.idea
+*.iml
+
+# Gradle files
+.gradle
+/local.properties
